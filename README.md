@@ -4,4 +4,4 @@
 
 💌 &nbsp;  Feel free to [email me](mailto:jexica.ayran@gmail.com). 
 
-🔗 &nbsp;  [website](https://jexica.design/) &nbsp; + &nbsp; [twitter](https://twitter.com/jexicaz_) &nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/)
+🔗 &nbsp;  [website](https://jexica.design/) &nbsp; + &nbsp; [twitter](https://twitter.com/jexicaz_) &nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) + &nbsp; [🎵](https://soundcloud.com/xicaz)
