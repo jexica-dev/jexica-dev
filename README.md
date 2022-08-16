@@ -1,6 +1,6 @@
 
 
-🌱 &nbsp;  I'm a Web Developer + Designer based in Brooklyn, NYC. 
+🌱 &nbsp;  I'm a Web Developer + Designer based in Queens, NYC. 
 
 💌 &nbsp;  Feel free to [email me](mailto:jexica.ayran@gmail.com). 
 
