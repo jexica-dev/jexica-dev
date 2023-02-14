@@ -1,6 +1,6 @@
 
 
-🌱 &nbsp;  Creative developer, sf bay area to queens, nyc.
+🌱 &nbsp;  Creative developer. SF Bay Area && Queens, NYC.
 
 💌 &nbsp;  Feel free to [email me](mailto:jexica.ayran@gmail.com). 
 
