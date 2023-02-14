@@ -1,6 +1,6 @@
 
 
-🌱 &nbsp;  I'm a Web Developer + Designer based in Queens, NYC. 
+🌱 &nbsp;  Creative developer, sf bay area to queens, nyc.
 
 💌 &nbsp;  Feel free to [email me](mailto:jexica.ayran@gmail.com). 
 
