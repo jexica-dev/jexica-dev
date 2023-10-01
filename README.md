@@ -4,6 +4,6 @@
 
 ▮͇͋͒𐄘⃓̱̥̟̟͋᷍ &nbsp;  Feel free to [email me](mailto:jayran@cca.edu). 
 
-✹̶͉̑͗𖠢⃓̝̩̣̻̎𐄛᷉ &nbsp;  [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp; &nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) 
+✹̶͉̑͗𖠢⃓̝̩̣̻̎𐄛᷉ &nbsp;  [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp;&nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) 
 
 𐄎𐄛̡̆̌ͦ✦ &nbsp; [website](https://jexica.design/) 
