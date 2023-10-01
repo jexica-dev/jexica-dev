@@ -1,9 +1,9 @@
 
 
-🌱 &nbsp;  Creative developer. SF Bay Area & Queens, NYC.
+▲̤̿̽〰︎⃒⃛͡✹⃓̤ͦ &nbsp;  Creative developer. SF Bay Area & Queens, NYC.
 
-💌 &nbsp;  Feel free to [email me](mailto:jayran@cca.edu). 
+▮͇͋͒𐄘⃓̱̥̟̟͋᷍☼͇̄ &nbsp;  Feel free to [email me](mailto:jayran@cca.edu). 
 
-🔗 &nbsp;  [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp; &nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) 
+✹̶͉̑͗𖠢⃓̝̩̣̻̎𐄛͙᷉॰͚ &nbsp;  [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp; &nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) 
 
-🌐 &nbsp; [website](https://jexica.design/) 
+𐄨⃒̠̼︥͘𐄎𐄛̡̆̌ͦ✦ &nbsp; [website](https://jexica.design/) 
