@@ -1,10 +1,10 @@
 
 
-▲̤̿̽〰︎⃒⃛͡ &nbsp;  Creative developer. SF Bay Area & Queens, NYC.
+✦ &nbsp;  Creative developer. SF Bay Area & Queens, NYC.
 
-✹̶͉̑͗𖠢⃓̝̩̣̻̎𐄛᷉ &nbsp;  Feel free to [email me](mailto:jayran@cca.edu). 
+✦ &nbsp;  Feel free to [email me](mailto:jayran@cca.edu). 
 
-𐄎𐄛̡̆̌ͦ✦ &nbsp;   [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp;&nbsp; + &nbsp; [IG](https://www.instagram.com/xica.io/) 
+✦ &nbsp;   [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp;&nbsp; + &nbsp; [IG](https://www.instagram.com/metacupid.io.net.cloud/) 
 
-▮͇͋͒𐄘⃓̱̥̟̟͋᷍ &nbsp;  [website](https://jexica.design/) 
+✦ &nbsp;  [website](https://jexica.design/) 
 
