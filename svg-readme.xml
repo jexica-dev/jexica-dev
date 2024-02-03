@@ -1,0 +1,56 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+   
+    
+
+        .container {
+          <!-- background-color: #A3A3A3; -->
+          
+          background-image: url(https://i.imgur.com/2ioNW71.png);
+          background-position: left center ;
+          opacity: .7;
+          z-index: -10;
+        }
+        .text-container{
+          z-index:100;  
+          font-family: 'Space Mono', monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          width: 100%;
+          height: 300px;
+          display: flex;
+          flex-direction: column;
+          padding: 90px 90px;
+        }
+
+         .text{
+            opacity:1;
+            color: black;
+            background-color: white;
+         }
+          
+          .space{
+            margin: 10px;
+          }  
+
+         
+     </style> 
+
+       <div class="container">
+            <!-- <h3>Hi there, my name is Nikola </h3> -->
+         <div class="text-container">   
+            <div class="text"><span class="space">✦</span>  Hi, I'm Jessica Ayran, also known as <b class="underline">jexica</b> </div>   
+            <div class="text"><span class="space">✦</span>  Creative Developer. SF Bay Area.</div> 
+            <div class="text"><span class="space">✦</span>  Email me at <u class="underline">jess.ayran@gmail.com</u></div>
+            <div class="text"><span class="space">✦</span>  <a href="https://jexica.design/">Portfolio</a></div>
+            <div class="text"><span class="space">✦</span>  <a href="https://www.linkedin.com/in/jexica/">Linkedin</a></div>
+        </div>
+<!-- ✦ &nbsp;  Feel free to [email me](mailto:jess.ayran@gmail.com).  -->
+
+<!-- ✦ &nbsp;   [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp;&nbsp; + &nbsp; [IG](https://www.instagram.com/metacupid.io.net.cloud/)  -->
+
+<!-- ✦ &nbsp;  [website](https://jexica.design/)  -->
+      </div>
+    </div>
+  </foreignObject>
+</svg>
