@@ -6,7 +6,6 @@
     
 
         .container {
-          <!-- background-color: #A3A3A3; -->
           
           background-image: url(https://i.imgur.com/2ioNW71.png);
           background-position: left center ;
@@ -42,8 +41,9 @@
             <div class="text"><span class="space">✦</span>  Hi, I'm Jessica Ayran, also known as <b class="underline">jexica</b> </div>   
             <div class="text"><span class="space">✦</span>  Creative Developer. SF Bay Area.</div> 
             <div class="text"><span class="space">✦</span>  Email me at <u class="underline">jess.ayran@gmail.com</u></div>
-            <div class="text"><span class="space">✦</span>  <a href="https://jexica.design/">Portfolio</a></div>
-            <div class="text"><span class="space">✦</span>  <a href="https://www.linkedin.com/in/jexica/">Linkedin</a></div>
+            <div class="text"><span class="space">✦</span>  https://www.linkedin.com/in/jexica/</div>
+            <div class="text"><span class="space">✦</span>  https://jexica.design/</div>
+            
         </div>
 <!-- ✦ &nbsp;  Feel free to [email me](mailto:jess.ayran@gmail.com).  -->
 
