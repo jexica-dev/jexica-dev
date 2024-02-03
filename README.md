@@ -1,10 +1,3 @@
-
-
-✦ &nbsp;  Creative developer. SF Bay Area.
-
-✦ &nbsp;  Feel free to [email me](mailto:jess.ayran@gmail.com). 
-
-✦ &nbsp;   [LinkedIn](https://www.linkedin.com/in/jexica/) &nbsp;&nbsp; + &nbsp; [IG](https://www.instagram.com/metacupid.io.net.cloud/) 
-
-✦ &nbsp;  [website](https://jexica.design/) 
-
+<div style="width: 100%;">
+  <img src="svg-readme.svg" style="width: 100%;" alt="Click to see the source">
+</div>
